@@ -1,9 +1,10 @@
 {
   "development": {
     "username": "root",
-    "password": "roor",
-    "database": "burgers_db",
+    "password": "root",
+    "database": "burgers_seq",
     "host": "localhost",
+    "port": 3306,
     "dialect": "mysql"
   },
   "test": {
